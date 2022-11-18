@@ -7,3 +7,9 @@ h1 {
 p{
     text-align: center; color: snow;
 }
+.imagem5 {
+    width:40%;
+    margin-left:50%;
+    border-radius: 10px; color: blueviolet;
+    position: absolute;
+}
